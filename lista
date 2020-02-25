@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://i.imgur.com/1I80gO9.jpg" group-title=",CECEGEEK TV
+http://142.4.195.157:25461/hlsr/TBUKAERaFg4QUgYFAAMGAVRfVQYPBlAHAAdVVlJZAFNWAFZVUQRQAQNEHUERREVXBQtsW11BWw8AUwQHSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQJVVQEBFRtABE9GUUZcB108BlVBWwcDEQhXFg1aG0ZcXjsFUFhWWQZDDRAFFh5EWBASEg1cEQpfHhsBCEJFBUdVRlsXBAAPVEMbEFdbRwhFERsSDRAmNBEeGwYZQlIKQFkLDxcPFVpRFA8QGBZbFW4RB0NDQAEHXldLQVsUBkYfEgkATWpUWAwPUlFAXV0IQkFYEgcQSEReXVcKFVlFO0NZAEMPFwUPWlIEEEk=/tvbrasilonline/bG0l3JBb2U/97777/2f64b6865b6e4abe8fde11f7370e2c1b/97777_131.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/C1HDuf1.jpg" group-title=",SIGUENOS PARA MAS
+http://142.4.195.157:25461/hlsr/TBUKAERaFg4QUgYFAAMGAVRfVQYPBlAHAAdVVlJZAFNWAFZVUQRQAQNEHUERREVXBQtsW11BWw8AUwQHSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQJVVQEBFRtABE9GUUZcB108BlVBWwcDEQhXFg1aG0ZcXjsFUFhWWQZDDRAFFh5EWBASEg1cEQpfHhsBCEJFBUdVRlsXBAAPVEMbEFdbRwhFERsSDRAmNBEeGwYZQlIKQFkLDxcPFVpRFA8QGBZbFW4RB0NDQAEHXldLQVsUBkYfEgkATWpUWAwPUlFAXV0IQkFYEgcQSEReXVcKFVlFO0NZAEMPFwUPWlIEEEk=/tvbrasilonline/bG0l3JBb2U/97777/2f64b6865b6e4abe8fde11f7370e2c1b/97777_131.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/Sd7k6Yp.jpg" group-title=",APOYO EN PAYPAL
+http://cerbot.kastream.biz:8081/edge/vrb73bc4850c6bdbae7e8012a8aef49dda/chunks.m3u8?nimblesessionid=1231425&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIwIDM6MTQ6MDAgUE0maGFzaF92YWx1ZT1TbnQ2MEFmNWhkMjhmK3Z6RGpsT1lnPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:0 tvg-logo="https://i.imgur.com/PFRwcOY.jpg" group-title=",15-01-18
+http://cerbot.kastream.biz:8081/edge/vrb73bc4850c6bdbae7e8012a8aef49dda/chunks.m3u8?nimblesessionid=1231425&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIwIDM6MTQ6MDAgUE0maGFzaF92YWx1ZT1TbnQ2MEFmNWhkMjhmK3Z6RGpsT1lnPT0mdmFsaWRtaW51dGVzPTEyMA==
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tnt_9109c85a_b2259b4dc286112052a50d133a263276f5fed8ca/playlist.m3u8
+
+#EXTINF:-1 "" group-title=",SPACE
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tnt_9109c85a_b2259b4dc286112052a50d133a263276f5fed8ca/playlist.m3u8
+
+#EXTINF:-1 "" group-title="",ESPORTE INTERATIVO
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/bG0l3JBb2U/111000.m3u8
+#EXTINF:-1 "" group-title=",EI PLUS
+http://142.4.195.157:25461/hlsr/TBUKAERaFg4QUgYFAAMGAVRfVQYPBlAHAAdVVlJZAFNWAFZVUQRQAQNEHUERREVXBQtsW11BWw8AUwQHSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQJVVQEBFRtABE9GUUZcB108BlVBWwcDEQhXFg1aG0ZcXjsFUFhWWQZDDRAFFh5EWBASEg1cEQpfHhsBCEJFBUdVRlsXBAAPVEMbEFdbRwhFERsSDRAmNBEeGwYZQlIKQFkLDxcPFVpRFA8QGBZbFW4RB0NDQAEHXldLQVsUBkYfEgkATWpUWAwPUlFAXV0IQkFYEgcQSEReXVcKFVlFO0NZAEMPFwUPWlIEEEk=/tvbrasilonline/bG0l3JBb2U/97777/2f64b6865b6e4abe8fde11f7370e2c1b/97777_131.ts
+
+#EXTINF:-1 "" group-title=",TNT
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tnt_9109c85a_26773b754a8121d05edac090129a192b9b094e22/playlist.m3u8
+#EXTINF:-1 "" group-title=",SPORTE TV
+hhttp://142.4.195.157:25461/hlsr/TBUKAERaFg4QUgYFAAMGAVRfVQYPBlAHAAdVVlJZAFNWAFZVUQRQAQNEHUERREVXBQtsW11BWw8AUwQHSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQJVVQEBFRtABE9GUUZcB108BlVBWwcDEQhXFg1aG0ZcXjsFUFhWWQZDDRAFFh5EWBASEg1cEQpfHhsBCEJFBUdVRlsXBAAPVEMbEFdbRwhFERsSDRAmNBEeGwYZQlIKQFkLDxcPFVpRFA8QGBZbFW4RB0NDQAEHXldLQVsUBkYfEgkATWpUWAwPUlFAXV0IQkFYEgcQSEReXVcKFVlFO0NZAEMPFwUPWlIEEEk=/tvbrasilonline/bG0l3JBb2U/97777/2f64b6865b6e4abe8fde11f7370e2c1b/97777_131.ts
+#EXTINF:-1 " group-title=",SPORTE TV 2
+http://cerbot.kastream.biz:8081/edge/vrb73bc4850c6bdbae7e8012a8aef49dda/chunks.m3u8?nimblesessionid=1231425&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIwIDM6MTQ6MDAgUE0maGFzaF92YWx1ZT1TbnQ2MEFmNWhkMjhmK3Z6RGpsT1lnPT0mdmFsaWRtaW51dGVzPTEyMA==
+
+#EXTINF:-1 tvg-logo="",SPORT TV 3
+http://cerbot.kastream.biz:8081/edge/vrb73bc4850c6bdbae7e8012a8aef49dda/chunks.m3u8?nimblesessionid=1231425&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDIwIDM6MTQ6MDAgUE0maGFzaF92YWx1ZT1TbnQ2MEFmNWhkMjhmK3Z6RGpsT1lnPT0mdmFsaWRtaW51dGVzPTEyMA==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRBjtoa.png" group-title="Cine",PREMIERE 1
+https://origin.topcanais.com/mylive/premiere2sd/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://i61.tinypic.com/34hx7kg.jpg" group-title="Cine",PREMIERE 2
+https://origin.topcanais.com/mylive/premiere3sd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oDWaEiM.png" group-title="Deportes",PREMIERE 3 
+https://origin.topcanais.com/mylive/premiere4sd/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.televisa.com/2017/04/logo_de_pelicula.jpg" group-title=PREMIERRE 4
+https://live.multicanais.com/live/bbb01sd/video.m3u8?md5=mERW_mU03KStp1RsD1YE6Q&expires=1582528841
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uIbTc5D.png" group-title="Entretenimiento", FUTEBOL 
+https://live.multicanais.com/live/bbb02sd/video.m3u8?md5=S1lC_JAptLARLNu-1iupEw&expires=1582528876
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/e-entertainment-logo-13642BF5FB-seeklogo.com.gif" group-title= FUTEBOL
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NrefzuZ.jpg" group-title="Entretenimiento",BBB 
+https://origin.canaismax.com/mylive/bbbmosaicosd/video.m3u8?md5=FssdQIbNgUuzDDzxVYd51A&expires=1582528931
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Elgourmet_logo_1.png/revision/latest?cb=20151123221216" group-title="Cultura",BBB
+
+
+#EXTINF:-1 tvg-logo="" group-title="Cine", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/b42331787eb3c9aea4e6a39789cec9c8_150x80.png" group-title="Deportes",ESPN brasil (MX)
+https://origin.topcanais.com/mylive/espnbrasilsd/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://latino-webtv.com/gallery_gen/b42331787eb3c9aea4e6a39789cec9c8_150x80.png" group-title="Deportes", ESPN brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/242bo6v.jpg" group-title="Deportes",ESPN brasil(MX)
+https://verycool.fmaxcdn.net/privado/espnbrasil/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://i59.tinypic.com/242bo6v.jpg" group-title="Deportes", ESPN brasil
+https://origin.canaismax.com/mylive/espnbrasilsd/video.m3u8?md5=Ypi6F_X8F_6JfS5XyQZh_Q&expires=1582524599
+#EXTINF:-1 tvg-logo="Deportes",ESPN3 (MX)
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_240_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="Deportes", ESPN brasil
+https://live.multicanais.com/mylive/espnbrasilsd/video.m3u8?md5=aDNEJE9MNI3e-hIQA1sfoA&expires=1582524938
+
+#EXTINF:-1 tvg-logo=""",ESPN TV
+https://live.multicanais.com/mylive/espnhd1/video.m3u8?md5=0-H2bkt3dOnyqnyCvTPOnQ&expires=1582525091
+
+#EXTINF:-1 tvg-logo="" group-title="Desportes",ESPN TV
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/espn_887309d0_1789ab3dab6bda8db6d9493f586f281949b828ca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN TV
+https://origin.topcanais.com/mylive/espnhd1/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 2
+https://live.multicanais.com/live/espnmaissd/video.m3u8?md5=P1ZIuMmFbWsVmZVx6KQPlw&expires=1582525889
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN 2
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_240_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN EXTRA1
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_240_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",
+https://origin.topcanais.com/live/espnmaissd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGfgLN3.png" group-title="Cine", fox esporte
+https://origin.topcanais.com/mylive/foxsportssd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mtv-logo-436D149512-seeklogo.com.gif" group-title="Musica",MTV (MX)
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/52/a4/61/52a4619149640a0c9a25474e5a9903ce--mtv-music-live-hd.jpg" group-title="Musica",MTV Live (MX)
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/52/a4/61/52a4619149640a0c9a25474e5a9903ce--mtv-music-live-hd.jpg" group-title="Musica", MTV LIVE
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
